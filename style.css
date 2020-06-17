@@ -1,0 +1,46 @@
+/*
+    Author: Alexandra Markello
+    Repo: https://github.com/markelloggs/personal-website
+*/
+
+body {
+    background-color: #ddf5ff;
+    margin: 0px;
+    text-align: center;
+    font-family: "Georgia";
+}
+
+h1 {
+    margin: 0px;
+    color: #474d55;
+}
+
+#nav {
+    background-color: #8cbbe0;
+    color: #49657b;
+    width: 100%;
+    padding: 10px;
+    text-align: left;
+}
+
+#content {
+    margin-top: 10%;
+}
+
+#title {
+    padding: 10px;
+}
+
+#social {
+    padding: 10px;
+}
+
+#footer {
+    background-color: #bbe6e6;
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
